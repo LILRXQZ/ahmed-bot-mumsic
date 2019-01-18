@@ -1,0 +1,6 @@
+owner=469651897666764811
+prefix=!
+game=By :peerlsse | !play
+stayinchannel=true
+songinstatus=false
+token=NTM1NzkxNjk1MDI0MDk1MjMy.DyNSpg.mX0w6PlY3W1ZKtXKJlBa2tFYQp0
