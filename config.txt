@@ -1,14 +1,6 @@
-const Discord = require("discord.js");
-const client = new Discord.Client();
-client.on('ready', () => {
-  client.user.setGame(` By Suhaib #4272 .`,'https://www.twitch.tv/v5bz');
-  console.log('---------------');
-  console.log('Desert Bot Is Online')
-  console.log('---------------')
-});
 owner=469651897666764811
 prefix=!
-game= ماذا لو أخذنا الموسيقى عذرًا لبدء الحديث؟. | !play
+game= ماذا لو أخذنا الموسيقى عذرًا لبدء الحديث؟. 
 stayinchannel=true
 songinstatus=false
 token=NTM1NzkxNjk1MDI0MDk1MjMy.DyNSpg.mX0w6PlY3W1ZKtXKJlBa2tFYQp0
